@@ -1,5 +1,3 @@
-endo
-Lendo
 API Weather Python - Exemplo Prático de Consumo de API
 Um exemplo prático e educacional de como consumir uma API de previsão do tempo usando Python. Este projeto foi inspirado no vídeo "Aprenda de vez o que é uma API com esse exemplo simples em Python" e demonstra os conceitos fundamentais de trabalho com APIs RESTful.
 
